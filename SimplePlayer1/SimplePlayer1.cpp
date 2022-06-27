@@ -49,7 +49,8 @@ int refresh_video(void* opaque)
 
 int main(int argc, char* argv[])
 {
-	char filepath[] = "cuc_ieschool.flv";
+	//char filepath[] = "cuc_ieschool.flv";
+	char* filepath = argv[1];
 	FILE* fp = nullptr;
 	fopen_s(&fp, filepath, "rb");
 	if (!fp)

@@ -1,0 +1,2 @@
+直接执行可执行文件
+执行格式为 SimplePlayer1 cuc_ieschool.flv

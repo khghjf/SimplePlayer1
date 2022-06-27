@@ -1,14 +1,14 @@
 ﻿  SimplePlayer1.cpp
 E:\workspace\SimplePlayer1\SimplePlayer1\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(96,20): warning C4018: “<”: 有符号/无符号不匹配
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(130,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int64_t”
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(130,9): message : 请考虑在格式字符串中使用“%lld”
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(130,9): message : 请考虑在格式字符串中使用“%Id”
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(130,9): message : 请考虑在格式字符串中使用“%I64d”
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(331,19): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(97,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(131,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int64_t”
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(131,9): message : 请考虑在格式字符串中使用“%lld”
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(131,9): message : 请考虑在格式字符串中使用“%Id”
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(131,9): message : 请考虑在格式字符串中使用“%I64d”
 E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(332,19): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(337,19): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(333,19): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
 E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(338,19): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(66,21): warning C4101: “pCodecCtx_Par”: 未引用的局部变量
-E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(204,12): warning C4101: “sdlEvent”: 未引用的局部变量
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(339,19): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(67,21): warning C4101: “pCodecCtx_Par”: 未引用的局部变量
+E:\workspace\SimplePlayer1\SimplePlayer1\SimplePlayer1.cpp(205,12): warning C4101: “sdlEvent”: 未引用的局部变量
   SimplePlayer1.vcxproj -> E:\workspace\SimplePlayer1\x64\Debug\SimplePlayer1.exe
